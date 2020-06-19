@@ -6,8 +6,8 @@ Andrés Sajo y Carlos Contreras
 
 # Overleaf
 Las plantillas están también disponibles a través de la galería de Overleaf:
- * [Enlace Tesis Universidad Simón Bolívar (Postgrado)](https://www.overleaf.com/latex/templates/tesis-universidad-simon-bolivar-postgrado/crskmcwnvwzy)
- * [Tesis Universidad Simón Bolívar (USB pregrado)](https://www.overleaf.com/latex/templates/tesis-universidad-simon-bolivar-usb-pregrado/rbczxxywsypc)
+ * [Tesis Universidad Simón Bolívar (Postgrado) https://www.overleaf.com/latex/templates/tesis-universidad-simon-bolivar-postgrado/crskmcwnvwzy](https://www.overleaf.com/latex/templates/tesis-universidad-simon-bolivar-postgrado/crskmcwnvwzy)
+ * [Tesis Universidad Simón Bolívar (USB pregrado) https://www.overleaf.com/latex/templates/tesis-universidad-simon-bolivar-usb-pregrado/rbczxxywsypc](https://www.overleaf.com/latex/templates/tesis-universidad-simon-bolivar-usb-pregrado/rbczxxywsypc)
 
 
 ## Cambios
